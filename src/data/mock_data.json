@@ -1,0 +1,101 @@
+[
+    {
+      "eventName": "Silk Route Summit",
+      "category": "Business",
+      "location": "Bengaluru, Karnataka",
+      "date": "2024-11-15",
+      "description": "An exclusive summit gathering entrepreneurs and visionaries to discuss innovations and advancements in the textile and manufacturing industries.",
+      "imageUrl": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2024-06/Image%20Source%20-%202024-06-06T154002.724.jpg"
+    },
+    {
+      "eventName": "Vedic Harmony - Music & Meditation",
+      "category": "Social",
+      "location": "Rishikesh, Uttarakhand",
+      "date": "2024-12-05",
+      "description": "Experience a soulful blend of Vedic chants and peaceful meditation amidst the serene banks of the Ganges River.",
+      "imageUrl": "https://artsforenlightenment.org/wp-content/uploads/2021/09/music-to-balance-nature-mobile-banner-1170x600.jpg"
+    },
+    {
+      "eventName": "Diya Fest - Lights & Lanterns",
+      "category": "Religious",
+      "location": "Varanasi, Uttar Pradesh",
+      "date": "2024-11-20",
+      "description": "Join us for an enchanting night by the Ganges, where thousands of diyas light up the riverbank, celebrating faith and community.",
+      "imageUrl": "https://media.istockphoto.com/id/1821606963/photo/devotees-light-earthen-oil-lamps-on-the-occasion-of-dev-dipawali.jpg?s=612x612&w=0&k=20&c=9kaCg-XhJfrzXw2fKWUsVHUwDoAtzKmoZ_ezOo01rBs="
+    },
+    {
+      "eventName": "Jaipur International Film Festival",
+      "category": "Film Festivals",
+      "location": "Jaipur, Rajasthan",
+      "date": "2025-01-18",
+      "description": "A global stage celebrating the art of cinema with screenings, panel discussions, and awards for emerging filmmakers.",
+      "imageUrl": "https://www.jiffindia.org/documents/HOME-3.jpg"
+    },
+    {
+      "eventName": "Bollywood Nights - Live Music Extravaganza",
+      "category": "Live Concerts",
+      "location": "Mumbai, Maharashtra",
+      "date": "2024-12-25",
+      "description": "A night of Bollywood's greatest hits performed live by renowned artists and surprise celebrity appearances.",
+      "imageUrl": "https://glittethesuperclub.com/wp-content/uploads/2020/04/ER3C3021-scaled.jpg"
+    },
+    {
+      "eventName": "Green Future Symposium",
+      "category": "Non-profit Events",
+      "location": "Delhi",
+      "date": "2024-11-30",
+      "description": "A collaborative event focused on sustainable development and green energy initiatives to build a better tomorrow.",
+      "imageUrl": "https://www.newsip.in/wp-content/uploads/2022/11/sbI_aaims_e_veichles.jpg"
+    },
+    {
+      "eventName": "Royal Rajputana Wedding Showcase",
+      "category": "Weddings",
+      "location": "Udaipur, Rajasthan",
+      "date": "2025-02-14",
+      "description": "Witness the grandeur of a traditional Rajputana wedding ceremony and experience royalty like never before.",
+      "imageUrl": "https://cdn0.weddingwire.in/article/5254/3_2/1280/jpg/4525-rajputana-dresses-ministry-of-memories-cover-photo.jpeg"
+    },
+    {
+      "eventName": "The Grand Birthday Bash",
+      "category": "Birthdays",
+      "location": "Goa",
+      "date": "2024-11-28",
+      "description": "Celebrate life with a grand beach party, live DJ, and a spectacular fireworks display under the Goan sky.",
+      "imageUrl": "https://media.weddingz.in/images/6522a126af2cdaad98b81bf4d3a68c09/best-places-to-throw-a-party-in-goa-where-you-can-host-a-flamboyant-bash.jpg"
+    },
+    {
+      "eventName": "Rang De Basanti - Cultural Fair",
+      "category": "Cultural",
+      "location": "Amritsar, Punjab",
+      "date": "2025-01-26",
+      "description": "A vibrant celebration of Punjabi culture with traditional dances, music, crafts, and local cuisine.",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgosUlteL_6UgGj5I7_SMdR4K0ZjPA24NTBVgVVr-JFhWrblifEdMdvANsVsCJI6qxK1GFy0xdagBKdbx_oJMLv8EGPYqAoknrody06yBrEXYlwOcngR8zfxwdG-o5cdHQB8c4gd8AJvgv/s16000/Students+of+Chandigarh+University+celebrated+Teej.jpg"
+    },
+    {
+      "eventName": "Artisans of India - Art & Craft Showcase",
+      "category": "Arts",
+      "location": "Kochi, Kerala",
+      "date": "2024-12-10",
+      "description": "Explore the finest hand-crafted works from artisans across India, featuring live demos and workshops.",
+      "imageUrl": "https://authindia.com/wp-content/uploads/2022/12/The-fifth-edition-of-Kochi-Muziris-Biennale.jpeg"
+    },
+    {
+        "eventName": "International Yoga Day Celebration",
+        "category": "Health & Wellness",
+        "location": "Rishikesh, Uttarakhand",
+        "date": "2024-06-21",
+        "description": "Join us for a day of yoga, meditation, and wellness workshops by the Ganges, celebrating the harmony of body and mind.",
+        "imageUrl": "https://th-i.thgim.com/public/incoming/2g50i8/article68315478.ece/alternates/BASE_FREE/PTI06_21_2024_000092A.jpg"
+      },
+      {
+        "eventName": "Tech Innovation Conference",
+        "category": "Technology",
+        "location": "Bengaluru, Karnataka",
+        "date": "2024-09-10",
+        "description": "A premier conference bringing together tech enthusiasts and industry leaders to explore the latest innovations and trends in technology.",
+        "imageUrl": "https://a.storyblok.com/f/188325/1920x1280/41e681c422/alexandre-pellaes-6vajp0pscx0-unsplash-1-1.jpg"
+      }
+  ]
+    
+  
+  

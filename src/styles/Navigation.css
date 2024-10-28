@@ -1,0 +1,109 @@
+/* Basic Navbar Styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: var(--color-primary);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.navbar-logo img {
+    width: 100px;
+    height: auto;
+    animation: fadeIn 1s;
+}
+
+.navbar-links {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.navbar-links a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    position: relative;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-links a:hover {
+    color: var(--color-cyan);
+}
+
+/* Animated Underline */
+.navbar-links a::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background-color: var(--color-cyan);
+    left: 50%;
+    bottom: 0;
+    transition: width 0.3s ease, left 0.3s ease;
+}
+
+.navbar-links a:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+/* Search and Icons Styling */
+.navbar-icons {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.search-icon, .hamburger-icon {
+    color: white;
+    font-size: 1.25rem;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.search-icon:hover, .hamburger-icon:hover {
+    color: var(--color-cyan);
+}
+
+.navbar-icons input[type="text"] {
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid var(--color-secondary);
+    outline: none;
+    font-size: 1rem;
+    display: inline-block;
+    animation: fadeIn 0.3s;
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+    .navbar-links {
+        display: none;
+        position: absolute;
+        top: 60px;
+        right: 0;
+        background-color: var(--color-primary);
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navbar-links.active {
+        display: flex;
+        animation: fadeInDown 0.5s;
+    }
+
+    .hamburger-icon {
+        display: block;
+    }
+}
+
+/* Desktop Styles */
+@media (min-width: 769px) {
+    .hamburger-icon {
+        display: none;
+    }
+}
