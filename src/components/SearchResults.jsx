@@ -14,7 +14,8 @@ const SearchResults = ({ query }) => {
             setTimeout(() => {
                 const filteredResults = mockData.filter((event) =>
                     event.eventName.toLowerCase().includes(query.toLowerCase()) ||
-                    event.category.toLowerCase().includes(query.toLowerCase())
+                    event.category.toLowerCase().includes(query.toLowerCase()) ||
+                    event.location.toLowerCase().includes(query.toLowerCase())
                 );
                 setResults(filteredResults);
                 setLoading(false);

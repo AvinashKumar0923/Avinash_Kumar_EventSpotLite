@@ -34,7 +34,7 @@ h2 {
   }
   
   .learn-more-btn {
-    background-color: #4f772d; /* Change to match your theme */
+    background-color: #c15e84; /* Change to match your theme */
     color: #fff;
     border: none;
     padding: 0.5rem 1rem;
@@ -46,8 +46,13 @@ h2 {
   }
   
   .learn-more-btn:hover {
-    background-color: #31572c;
+    background-color: #b7094c;
     transform: scale(1.05);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   }
   
+  @media (max-width: 768px) {
+    .service-card {
+        width: 150px;
+      }
+}

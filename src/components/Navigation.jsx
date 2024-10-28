@@ -33,7 +33,7 @@ const Navigation = ({ onSearch }) => {
                 <a href="#home">Home</a>
                 <a href="#about">About</a>
                 <a href="#services">Services</a>
-                <a href="#blogs">Blogs</a>
+                <a href="#events">Events</a>
                 <a href="#contact">Contact</a>
             </div>
             <div className="navbar-icons">
